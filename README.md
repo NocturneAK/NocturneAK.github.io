@@ -1,6 +1,6 @@
 # Portfolio
 
-# Heading 1
+### Heading 1
 - example
   
 ### Heading 2
